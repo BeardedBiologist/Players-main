@@ -1,0 +1,15 @@
+\\Mac\Home\Downloads\Players-main\bin\Debug\net6.0\Players.exe
+\\Mac\Home\Downloads\Players-main\bin\Debug\net6.0\Players.deps.json
+\\Mac\Home\Downloads\Players-main\bin\Debug\net6.0\Players.runtimeconfig.json
+\\Mac\Home\Downloads\Players-main\bin\Debug\net6.0\Players.dll
+\\Mac\Home\Downloads\Players-main\bin\Debug\net6.0\Players.pdb
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.AssemblyInfo.cs
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.dll
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\refint\Players.dll
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.pdb
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\Players.genruntimeconfig.cache
+\\Mac\Home\Downloads\Players-main\obj\Debug\net6.0\ref\Players.dll
